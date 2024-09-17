@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MovementMechanics-1326.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Work\ShortGun\UnrealProjects\LearningProjects\ModulesProject\Intermediate\Build\Win64\x64\ModulesProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"D:\Work\ShortGun\UnrealProjects\LearningProjects\ModulesProject\Plugins\MovementMechanics\Intermediate\Build\Win64\x64\UnrealEditor\Development\MovementMechanics\Module.MovementMechanics.cpp.obj"
+"D:\Work\ShortGun\UnrealProjects\LearningProjects\ModulesProject\Plugins\MovementMechanics\Intermediate\Build\Win64\x64\UnrealEditor\Development\MovementMechanics\MovementMechanics.cpp.obj"
+"D:\Work\ShortGun\UnrealProjects\LearningProjects\ModulesProject\Plugins\MovementMechanics\Intermediate\Build\Win64\x64\UnrealEditor\Development\MovementMechanics\MSetMovementValues.cpp.obj"
+"D:\Work\ShortGun\UnrealProjects\LearningProjects\ModulesProject\Plugins\MovementMechanics\Intermediate\Build\Win64\x64\UnrealEditor\Development\MovementMechanics\Default.rc2.res"
+/OUT:"D:\Work\ShortGun\UnrealProjects\LearningProjects\ModulesProject\Plugins\MovementMechanics\Intermediate\Build\Win64\x64\UnrealEditor\Development\MovementMechanics\UnrealEditor-MovementMechanics-1326.lib"

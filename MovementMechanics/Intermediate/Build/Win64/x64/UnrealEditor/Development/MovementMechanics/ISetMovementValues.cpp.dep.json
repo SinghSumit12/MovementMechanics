@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\source\\movementmechanics\\private\\isetmovementvalues.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\intermediate\\build\\win64\\x64\\modulesprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\movementmechanics\\definitions.movementmechanics.h",
+            "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\source\\movementmechanics\\public\\isetmovementvalues.h",
+            "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\source\\movementmechanics\\public\\emovementvalues.h",
+            "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\intermediate\\build\\win64\\unrealeditor\\inc\\movementmechanics\\uht\\isetmovementvalues.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

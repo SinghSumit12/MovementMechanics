@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\source\\movementmechanics\\private\\sg_storemovementvalues.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\intermediate\\build\\win64\\x64\\modulesprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\movementmechanics\\definitions.movementmechanics.h",
+            "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\source\\movementmechanics\\public\\sg_storemovementvalues.h",
+            "e:\\softwares\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\savegame.h",
+            "e:\\softwares\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\savegame.generated.h",
+            "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\source\\movementmechanics\\public\\emovementvalues.h",
+            "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\intermediate\\build\\win64\\unrealeditor\\inc\\movementmechanics\\uht\\sg_storemovementvalues.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

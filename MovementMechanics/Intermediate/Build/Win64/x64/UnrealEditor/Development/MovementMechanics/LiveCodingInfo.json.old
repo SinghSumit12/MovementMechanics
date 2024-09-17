@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MovementMechanics.cpp.obj": [
+			"ACMovementValues.gen.cpp.obj",
+			"ACSetMovementValues.gen.cpp.obj",
+			"EMovementValues.gen.cpp.obj",
+			"ISetMovementValues.gen.cpp.obj",
+			"MovementMechanics.init.gen.cpp.obj",
+			"SG_StoreMovementValues.gen.cpp.obj",
+			"WMovementValues.gen.cpp.obj",
+			"ACMovementValues.cpp.obj",
+			"ACSetMovementValues.cpp.obj",
+			"ISetMovementValues.cpp.obj",
+			"MovementMechanics.cpp.obj",
+			"SG_StoreMovementValues.cpp.obj",
+			"WMovementValues.cpp.obj"
+		]
+	}
+}

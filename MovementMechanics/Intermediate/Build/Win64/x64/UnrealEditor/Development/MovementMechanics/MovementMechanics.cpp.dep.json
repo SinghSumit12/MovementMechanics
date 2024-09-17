@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\source\\movementmechanics\\private\\movementmechanics.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\intermediate\\build\\win64\\x64\\modulesprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\movementmechanics\\definitions.movementmechanics.h",
+            "d:\\work\\shortgun\\unrealprojects\\learningprojects\\modulesproject\\plugins\\movementmechanics\\source\\movementmechanics\\public\\movementmechanics.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
